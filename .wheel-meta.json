@@ -1,20 +1,20 @@
 {
   "wheel_id": 60,
   "slug": "tscm-nl-101",
-  "project": "seo-company-melbourne-comparison",
+  "project": "seo-company-melbourne-comparison-tn-101",
   "parent_t1_ref": "tscm-nl-001",
   "node_role": "feeder",
   "money_target": "theseocompanymelbourne.com.au",
   "primary_kw": "seo company melbourne comparison",
-  "intended_url": "https://seo-company-melbourne-comparison.onrender.com/",
+  "intended_url": "https://seo-company-melbourne-comparison-tn-101.surge.sh/",
   "links": [
     {
-      "target_url": "https://seo-company-melbourne.pages.dev/",
+      "target_url": "https://seo-company-melbourne-tn-150.s3.ap-southeast-2.amazonaws.com/index.html",
       "anchor": "seo company melbourne",
       "rel": "follow"
     },
     {
-      "target_url": "https://seo-company-melbourne.pages.dev/",
+      "target_url": "https://seo-company-melbourne-tn-150.s3.ap-southeast-2.amazonaws.com/index.html",
       "anchor": "seo company melbourne",
       "rel": "follow"
     }
